@@ -24,7 +24,7 @@ This is a fully functional e-commerce website focused on selling mobile phones a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/mobile-phone-ecommerce.git
+   git clone https://github.com/HopSoft-Tech/mobile-phone-ecommerce.git
    ```
 2. Navigate to the project directory:
    ```bash
