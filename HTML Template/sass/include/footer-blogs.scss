@@ -1,0 +1,22 @@
+/* Blogs & Footer Styles*/
+#blogs{
+	.owl-carousel .item a{
+		text-decoration: none;
+	}
+
+	.owl-carousel .item a:hover{
+		text-decoration: underline;
+		color: blue;
+	}
+}
+
+#footer {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+

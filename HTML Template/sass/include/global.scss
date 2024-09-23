@@ -1,0 +1,8 @@
+/*  global classes  */
+
+/* Remove Outline and box-shadow on buttons*/ 
+button, button:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
